@@ -29,32 +29,6 @@ export default function App() {
     </View>
   );
 }
-
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     padding: 16,
-//     marginTop: 50,
-    
-//   },
-//   nav: {
-//     flexDirection: 'row',
-//     justifyContent: 'space-around',
-//     marginBottom: 20,
-//   },
-//   tab: {
-//     padding: 10,
-//     backgroundColor: '#ccc',
-//     borderRadius: 8,
-//     margin: 5,
-//   },
-//   tabText: {
-//     fontSize: 16,
-//     fontWeight: 'bold',
-//   },
-//   main: {
-//     flex: 1,
-//   },
 const styles = StyleSheet.create({
   container: {
     flex: 1,
